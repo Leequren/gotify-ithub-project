@@ -1,0 +1,10 @@
+{
+  "name": "gotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nx": "^17.1.3"
+  }
+}
